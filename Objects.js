@@ -26,7 +26,7 @@ function literalNotation() {
     document.write(announce);
 }
 
-//Food constructor, this will become the prototype for th parent class of all //Food
+//Food constructor, this will become the prototype for the parent class of all //Food
 var Food = function(name, type, toppings, servings) {
     this.name = name;
     this.type = type;
